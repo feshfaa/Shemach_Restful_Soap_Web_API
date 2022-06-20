@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Jockey+One&display=swap');
+.navbar{
+    padding: 15px;
+    width: 100%;
+    margin: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+ .navbar .btns{
+    justify-content: space-between;
+    padding: 5px;
+    margin-right: 50px;
+}
+ .navbar #logo{
+    font-family: 'Jockey one';
+    font-size:35px;
+}
+
+.navbar .btns .uploadbtn{
+    justify-content: space-between;
+    font-size: 20px;
+    padding: 10px;
+    cursor: pointer;
+    margin-left: 33px ;
+}
+
+.navbar .btns .uploadbtn{
+    border: none;
+    border-radius: 70px;
+    font-size: 20px;
+}
